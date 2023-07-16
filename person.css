@@ -1,0 +1,214 @@
+/* Add Asset Styling */
+.assetcont{
+	position:absolute;
+	margin-left:19vw;
+	margin-top:6vh;
+	width:80.7vw;
+	height:82vh;
+	text-align:left;
+	background-color:#eeeeee;
+	border-top: 2px solid #ee0000; transition: all .3s;
+}
+.assettitle{
+	position:absolute;
+	margin-left:0.5vw;
+	margin-top:0.8vh;
+	color:#cc1818;
+}
+.assetform{
+	position:absolute;
+	margin-left:0.5vw;
+	width:80vw;
+	color:#000;
+}
+.assetfoot{
+	margin-top:60vh;
+	color:#030063;
+}
+/* End of Asset Styling */
+
+/* Edit Asset Styling */
+.listcontedit{
+	position:absolute;
+	margin-left:19vw;
+	margin-top:6vh;
+	width:80.7vw;
+	height:82vh;
+	text-align:left;
+	background-color:#eeeeee;
+	border-top: 2px solid #ee0000; transition: all .3s;
+}
+.listtitleedit{
+	position:absolute;
+	margin-left:0.5vw;
+	margin-top:0.8vh;
+	color:#cc1818;
+}
+.listinfoedit{
+	position:absolute;
+	margin-left:1vw;
+	margin-top:2vh;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+
+.listtbledit{
+	position:absolute;
+	margin-left:20.35vw;
+	
+	color:#000;
+}
+.size{
+	width:30vw;
+}
+
+.listfootedit{
+	margin-top:60vh;
+	color:#030063;
+}
+/* End of Edit Asset Styling */
+
+/* List of Asset Styling */
+.listcont{
+	position:absolute;
+	margin-left:19vw;
+	margin-top:6vh;
+	width:80.7vw;
+	height:82vh;
+	text-align:left;
+	background-color:#eeeeee;
+	border-top: 2px solid #ee0000; transition: all .3s;
+}
+.listtitle{
+	position:absolute;
+	margin-left:0.5vw;
+	margin-top:0.8vh;
+	color:#cc1818;
+}
+.listinfo{
+	position:absolute;
+	margin-left:1vw;
+	margin-top:2vh;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+.listtbl{
+	position:absolute;
+	margin-left:0.5vw;
+	width:80vw;
+	color:#000;
+}
+.listfoot{
+	margin-top:50vh;
+	color:#030063;
+}
+/* End of list Asset Styling */
+
+/* Employee Styling */
+.emp{
+	position:absolute;
+	margin-left:90vw;
+	margin-top:1.5vh;
+}
+
+.cont{
+	position:absolute;
+	margin-left:19vw;
+	margin-top:7.9vh;
+	width:80.7vw;
+	height:82vh;
+	text-align:left;
+	background-color:#eeeeee;
+	border-top: 2px solid #ee0000; transition: all .3s;
+}
+
+.title{
+	position:absolute;
+	margin-left:0.5vw;
+	margin-top:0.8vh;
+	color:#cc1818;
+}
+.info{
+	position:absolute;
+	margin-left:1vw;
+	margin-top:2vh;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+.tbl{
+	position:absolute;
+	margin-left:0.5vw;
+	width:80vw;
+	color:#000;
+}
+
+.pen {
+	text-decoration: none;
+	color:#416bdf;
+	margin-left:10px;
+}
+.trash{
+	text-decoration:none;
+	color:#ee0000;
+	margin-left:10px;
+}
+.empfoot{
+	margin-top:50vh;
+	color:#030063;
+}
+/* End of Employee Styling */
+
+/* User Styling */
+.use{
+	position:absolute;
+	margin-left:88vw;
+	margin-top:1.5vh;
+}
+.usecont{
+	position:absolute;
+	margin-left:19vw;
+	margin-top:7.9vh;
+	width:80.7vw;
+	height:82vh;
+	text-align:left;
+	background-color:#eeeeee;
+	border-top: 2px solid #ee0000; transition: all .3s;
+}
+.usetitle{
+	position:absolute;
+	margin-left:0.5vw;
+	margin-top:0.8vh;
+	color:#cc1818;
+}
+.useinfo{
+	position:absolute;
+	margin-left:1vw;
+	margin-top:2vh;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+}
+.usetbl{
+	position:absolute;
+	margin-left:0.5vw;
+	width:80vw;
+	color:#000;
+}
+.usepen {
+	text-decoration: none;
+	color:#416bdf;
+	margin-left:10px;
+}
+.usetrash{
+	text-decoration:none;
+	color:#ee0000;
+	margin-left:10px;
+}
+.usefoot{
+	margin-top:50vh;
+	color:#030063;
+}
+/* End of user Styling */
+
+/* Contact us Styling */
+
+/* End of Contact Us Styling */

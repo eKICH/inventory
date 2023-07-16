@@ -1,0 +1,82 @@
+body { font-family: 'Roboto', sans-serif; font-size: 16px; font-weight: 300; color: #888; line-height: 30px; text-align: center; }
+
+strong { font-weight: 500; }
+
+a { color: #f35b3f; border-bottom: 1px dashed #; text-decoration: none; transition: all .3s; }
+a:hover, a:focus { color: #f35b3f; border: 0; text-decoration: none; }
+.sidebar {
+	width: 250px; 
+	height: 100vh; 
+	position: fixed; 
+	top: 0; 
+	z-index: 999; 
+	background: #b2c95e;
+	color: #fff; 
+	transition: all .3s; box-shadow: 3px 3px 3px rgba(51, 51, 51, 0.5);
+	text-align: left;
+}
+
+.sidebar .logo { padding: 14px 50px; border-bottom: 1px solid #51340d; transition: all .3s; }
+.sidebar h4{color:#030063;}
+.sidebar .user{padding: 10px 80px;  transition: all .3s; }
+.sidebar .user-in{padding-left:10px; border-bottom: 1px solid #51340d; transition: all .3s;}
+
+.sidebar .logo a {
+	display: inline-block;
+	width: 172px;
+	height: 25px;
+	border: 0;
+	text-indent: -999999px;
+}
+
+
+.sidebar ul.menu-elements { padding: 10px 0; border-bottom: 1px solid #51340d; transition: all .3s;}
+
+.sidebar ul li a {
+	display: block; padding: 10px 20px;
+	border: 0; color: #fff;
+}
+.sidebar ul li a:hover,
+.sidebar ul li a:focus,
+.sidebar ul li.active > a:hover,
+.sidebar ul li.active > a:focus { outline: 0; background: #cae08f; color: #fff; }
+
+.sidebar ul li a i { margin-right: 5px; }
+
+.sidebar ul li.active a {
+	background: #cae08f;
+	color: #fff;
+}
+
+.sidebar ul ul a { background: #87955f; padding-left: 30px; font-size: 14px; }
+
+.sidebar ul ul li.active > a { background: #cae08f; }
+.sidebar a[data-toggle="collapse"] {
+    position: relative;
+}
+.sidebar .dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+.small{
+	font-size:16px;
+}
+.dash{
+	position: absolute;
+	margin: 0 auto;
+	padding-left:260px;
+	padding-top:20px;
+}
+.top{
+	position: absolute;
+	margin: 0 auto;
+	padding-left:260px;
+	padding-top:10px;
+	width:100%;
+	border-bottom: 1px solid #51340d; transition: all .3s;
+}
+.top a{text-decoration:none;}
+

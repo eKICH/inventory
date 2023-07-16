@@ -1,0 +1,80 @@
+.space {
+	position:relative;
+	padding-left:270px;
+	margin-top:70px;
+	padding-right:8px;
+	color:#fff;
+	width:100%;
+}
+
+.first {
+	width:340px;
+	height:150px;
+	text-align:right;
+	background-color:#4c87b9;
+}
+
+.second{
+	width:340px;
+	height:150px;
+	text-align:right;
+	background-color:#1ba39c;
+}
+
+.third{
+	width:340px;
+	height:150px;
+	text-align:right;
+	background-color:#d05454;
+}
+.now{
+	position:relative;
+	padding-left:270px;
+	margin-top:20px;
+	padding-right:8px;
+	color:#fff;
+	width:100%;
+}
+.fourth{
+	width:340px;
+	height:150px;
+	text-align:right;
+	background-color:#8877a9;
+	opacity:1 2;
+}
+
+.fifth{
+	width:340px;
+	height:150px;
+	text-align:right;
+	background-color:#c8d046;
+}
+
+.sixth{
+	width:340px;
+	height:150px;
+	text-align:right;
+	background-color:#c49f47;
+}
+
+/*Add Asset*/
+.dashd{
+	position: absolute;
+	margin: 0 auto;
+	padding-left:260px;
+	padding-top:20px;
+	font-size:10px;
+	height:400px;
+}
+
+
+
+
+/* list asset */
+
+.tlist{
+	position:relative;
+	padding-left:290px;
+	padding-right:50px;
+	padding-top:80px;
+}

@@ -1,0 +1,51 @@
+.conus{
+	position: absolute;
+	margin:0 auto;
+	margin-left:20vw;
+	margin-top:5vh;
+	width:78.7vw;
+	height:80vh;
+	text-align:left;
+	background-color:#eeeeee;
+	border-top: 2px solid #ee0000; transition: all .3s;
+}
+.contus{
+	margin-top:16vh;
+}
+.contitle{
+	position:absolute;
+	margin-left:0.5vw;
+	margin-top:0.8vh;
+	color:#cc1818;
+}
+
+.phus{
+	position:absolute;
+	width:20vw;
+	height:20vh;
+	background-color:;
+	margin-left:15vw;
+	margin-top:5vh;
+}
+.emus{
+	position:absolute;
+	width:20vw;
+	height:20vh;
+	background-color:;
+	margin-left:38vw;
+	margin-top:5vh;
+}
+.cone{
+	position:absolute;
+	margin-left:2.5vw;
+	margin-top:0.8vh;
+	color:#7b2d2d;
+	
+}
+.conecon{
+	color:#000;	
+}
+.contfoot{
+	margin-top:38vh;
+	color:#030063;
+}
